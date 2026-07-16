@@ -3,7 +3,7 @@ Responsive car &amp; bike showcase website built with HTML, CSS &amp; JavaScript
 Made in India Motors — Cars & Bikes Showcase
 A responsive showcase website for Indian car and motorcycle manufacturers, built to practice dynamic UI rendering, interactive modals, and real-world front-end data structuring.
 
-🔗 Live Demo: https://preethamjadhav.github.io/made-in-india-motors/
+🔗 Live Demo: https://preethamjadhav.github.io/Made-in-India-Motor/
 
 Features
 
